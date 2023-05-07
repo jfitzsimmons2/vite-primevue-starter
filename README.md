@@ -2,6 +2,8 @@
 
 This template should help get you started developing with PrimeVue, Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
+This is a basic PrimeVue installation, [visit their docs](https://primevue.org/configuration/) to add more PrimeVue functionality.
+
 ## Using the template
 
 You can clone or fork the repo to get started, but I would recommend using [degit](https://github.com/Rich-Harris/degit) so you don't get the entire project history. Instead, degit will use the latest commit to main to scaffold the project.
